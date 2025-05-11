@@ -2,3 +2,4 @@
 /data/train
 .venv
 /MayoDataset.zip
+/checkpoints.zip
