@@ -9,4 +9,4 @@ Mayo's Clinic Dataset (https://cdas.cancer.gov/datasets/mayo/) consists of 3305 
 
 #RESULTS
 
-![plot_geom_-15_15_no_noise](https://github.com/GiuseppeSpathis/TomographicReconstruction/tree/main/results/plots/plot_geom_-15_15_no_noise.png)
+![plot_geom_-15_15_no_noise](https://raw.githubusercontent.com/GiuseppeSpathis/TomographicReconstruction/main/results/plots/plot_geom_-15_15_no_noise.png)
