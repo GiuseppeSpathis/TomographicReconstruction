@@ -6,3 +6,6 @@ weights unrolled method: https://drive.google.com/file/d/1UsKFE4m9bSlFJMaQNNGfEz
 
 
 Mayo's Clinic Dataset (https://cdas.cancer.gov/datasets/mayo/) consists of 3305 grey-scale images of dimension 512×512, representing real anonymized CT reconstructions of human lungs from 10 patients, available at: https://drive.google.com/drive/folders/13BEiz6t57qSbwBpCtfqllmYTLmkhQeFE?usp=share_link.
+
+#RESULTS
+<img src="https://github.com/GiuseppeSpathis/TomographicReconstruction/results/plots/plot_geom_-15_15_no_noise.png" alt="plot_geom_-15_15_no_noise" width="300">
